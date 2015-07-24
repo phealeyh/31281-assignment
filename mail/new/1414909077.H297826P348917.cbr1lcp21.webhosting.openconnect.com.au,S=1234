@@ -1,0 +1,33 @@
+Return-path: <>
+Envelope-to: s1053775@cbr1lcp21.webhosting.openconnect.com.au
+Delivery-date: Sun, 02 Nov 2014 17:17:57 +1100
+Received: from mailnull by cbr1lcp21.webhosting.openconnect.com.au with local (Exim 4.82)
+	id 1XkoU9-001Slb-6w
+	for s1053775@cbr1lcp21.webhosting.openconnect.com.au; Sun, 02 Nov 2014 17:17:57 +1100
+Auto-Submitted: auto-replied
+From: Mail Delivery System <Mailer-Daemon@cbr1lcp21.webhosting.openconnect.com.au>
+To: s1053775@cbr1lcp21.webhosting.openconnect.com.au
+Subject: Mail failure - no recipient addresses
+Message-Id: <E1XkoU9-001Slb-6w@cbr1lcp21.webhosting.openconnect.com.au>
+Date: Sun, 02 Nov 2014 17:17:57 +1100
+
+A message that you sent contained no recipient addresses, and therefore no
+delivery could be attempted.
+
+------ This is a copy of your message, including all the headers. ------
+
+To: 
+Subject: Registration for mgr activity test
+X-PHP-Script: utsems.net/updateRegisteredRoleProcess.php for 123.243.94.196
+From: UTS EMS
+Message-Id: <E1XkoU9-001SlZ-3V@cbr1lcp21.webhosting.openconnect.com.au>
+Date: Sun, 02 Nov 2014 17:17:57 +1100
+
+Hi andy,
+
+This is to inform you that you have been accepted for the role! 
+Reconfirmation will be sent at a later date!
+
+Details:
+
+Activity: mgr activity test

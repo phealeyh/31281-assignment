@@ -1,0 +1,33 @@
+Return-path: <>
+Envelope-to: s1053775@cbr1lcp21.webhosting.openconnect.com.au
+Delivery-date: Sat, 25 Oct 2014 14:00:21 +1100
+Received: from mailnull by cbr1lcp21.webhosting.openconnect.com.au with local (Exim 4.82)
+	id 1XhraX-000jEj-MS
+	for s1053775@cbr1lcp21.webhosting.openconnect.com.au; Sat, 25 Oct 2014 14:00:21 +1100
+Auto-Submitted: auto-replied
+From: Mail Delivery System <Mailer-Daemon@cbr1lcp21.webhosting.openconnect.com.au>
+To: s1053775@cbr1lcp21.webhosting.openconnect.com.au
+Subject: Mail failure - no recipient addresses
+Message-Id: <E1XhraX-000jEj-MS@cbr1lcp21.webhosting.openconnect.com.au>
+Date: Sat, 25 Oct 2014 14:00:21 +1100
+
+A message that you sent contained no recipient addresses, and therefore no
+delivery could be attempted.
+
+------ This is a copy of your message, including all the headers. ------
+
+To: 
+Subject: Registration for DT2
+X-PHP-Script: www.utsems.net/updateRegisteredRoleProcess.php for 122.106.159.61
+Message-Id: <E1XhraX-000jEh-KP@cbr1lcp21.webhosting.openconnect.com.au>
+From: s1053775@cbr1lcp21.webhosting.openconnect.com.au
+Date: Sat, 25 Oct 2014 14:00:21 +1100
+
+Hi Brian,
+
+This is to inform you that you have been accepted for the role! 
+Reconfirmation will be sent at a later date!
+
+Details:
+
+Activity: DT2

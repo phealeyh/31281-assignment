@@ -1,0 +1,542 @@
+# Webalizer V2.23-05 Incremental Data - 11/02/2014 23:03:55
+2014 11 2 23 3 55
+4773 3248 20 54 87 22 13494891 171 42 0
+14 66 938 1 2
+292 200 702423 8 14 6
+4481 3048 12792468 14 157 36
+0 0 0 0 0 0
+0 0 0 0 0 0
+0 0 0 0 0 0
+0 0 0 0 0 0
+0 0 0 0 0 0
+0 0 0 0 0 0
+0 0 0 0 0 0
+0 0 0 0 0 0
+0 0 0 0 0 0
+0 0 0 0 0 0
+0 0 0 0 0 0
+0 0 0 0 0 0
+0 0 0 0 0 0
+0 0 0 0 0 0
+0 0 0 0 0 0
+0 0 0 0 0 0
+0 0 0 0 0 0
+0 0 0 0 0 0
+0 0 0 0 0 0
+0 0 0 0 0 0
+0 0 0 0 0 0
+0 0 0 0 0 0
+0 0 0 0 0 0
+0 0 0 0 0 0
+0 0 0 0 0 0
+0 0 0 0 0 0
+0 0 0 0 0 0
+0 0 0 0 0 0
+0 0 0 0 0 0
+253 177 610215 12
+221 133 555722 5
+295 196 704632 5
+70 40 147709 2
+0 0 0 0
+0 0 0 0
+0 0 0 0
+4 3 3928 2
+4 1 1143 2
+170 132 509879 5
+40 30 128307 1
+63 52 144299 8
+115 96 154520 16
+7 2 11198 0
+140 98 347937 3
+239 175 660343 9
+323 232 891303 7
+240 184 730917 6
+477 340 1395907 13
+176 116 504681 11
+939 522 3372407 8
+656 483 1856163 36
+245 164 540954 13
+96 72 222727 7
+0
+0
+0
+3248
+0
+0
+0
+0
+0
+2
+0
+0
+470
+0
+584
+0
+0
+0
+0
+0
+0
+469
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+# -urls- 
+/dashboard.php
+0 1 12440400 724 0 0
+/register.php
+0 34 0 32783 0 0
+/addEvents.php
+0 38 12428496 215215 0 0
+/viewVolunteerActivityDetails.php
+0 132 0 288831 0 0
+/manageAllocatedRole.php
+0 43 0 109026 0 0
+/updateUserEM.php
+0 64 12436704 486067 0 0
+/form.css
+0 238 0 11102 0 0
+/reportUser.php
+0 21 12446496 33941 0 0
+/deleteRegisteredRoleProcessV.php
+0 2 12431840 2026 0 0
+/addUserTypeProcess.php
+0 42 12429632 4313 0 0
+/viewEventsEM.php
+0 250 0 909477 0 0
+/deleteUserProcess.php
+0 19 12437184 14454 0 0
+/manageEvent.php
+0 214 0 617550 0 0
+/helpDirect.php
+0 14 0 0 0 0
+/alreadyReg.php
+0 9 12441456 11555 0 0
+/logout.php
+0 75 0 10050 0 0
+/preRegister.php
+0 44 0 120206 0 0
+/newActivityProcess.php
+0 36 0 32431 0 0
+/viewVolunteers.php
+0 3 12440160 13482 0 0
+/newUserProcess.php
+0 43 12430112 27740 0 0
+/loginProcess.php
+0 119 0 11588 0 0
+/loginform.css
+0 26 0 23870 0 0
+/deleteEventProcess.php
+0 3 12430832 627 0 0
+/buttons.css
+0 456 0 2350542 0 0
+/updateActivityProcessV.php
+0 1 0 194 0 0
+/preRegisterUpdate.php
+0 48 12431136 135009 0 0
+/manageRegisteredRole.php
+0 106 0 263024 0 0
+/viewPositions.php
+0 249 0 1052171 0 0
+/updateEventP.php
+0 11 12440736 69026 0 0
+/registerNLI.php
+0 8 12443552 10999 0 0
+/dashboardEM.php
+0 58 0 106405 0 0
+/registerUpdate.php
+0 14 12431600 13424 0 0
+/viewUsers.php
+0 211 12193160 1067564 0 0
+/updateUserProcess.php
+0 43 12436576 28698 0 0
+/manageActivity.php
+0 304 4121130307979260206 1267856 0 0
+/viewActivities.php
+0 3 12439920 14583 0 0
+/updateActivityP.php
+0 66 3472680383953240064 520159 0 0
+/viewRoles.php
+0 1 12440288 4353 0 0
+/updateActivityV.php
+0 121 3472680383953240064 943519 0 0
+/addUserA.php
+0 9 12442928 62108 0 0
+/userAuthenticated.php
+0 112 12195456 16504 0 0
+/
+0 171 0 177716 42 29
+/viewVolunteerEventDetails.php
+0 83 0 202232 0 0
+/addRoles.php
+0 2 12439840 4886 0 0
+/newEventProcess.php
+0 1 12428816 209 0 0
+/addUserV.php
+0 29 12429872 207007 0 0
+/addActivities.php
+0 45 0 327870 0 0
+/updateEventV.php
+0 59 0 383175 0 0
+/resetPW.php
+0 9 12438080 4061 0 0
+/deleteActivityProcess.php
+0 4 12431248 3415 0 0
+/addUserEM.php
+0 31 12436944 209354 0 0
+/dashboardU.php
+0 12 12443168 19618 0 0
+/updateUserV.php
+0 92 12197200 734648 0 0
+/manageRole.php
+0 5 12439600 19610 0 0
+# End Of Table - urls
+# -sites- (monthly)
+124-169-130-219.dyn.iinet.net.au
+0 4 3 3928 1 1414914042
+/
+113.108.13.36
+0 1 1 4365 0 0
+-
+123-243-94-196.static.tpgi.com.au
+0 880 672 2402684 7 1414969252
+/
+cpe-121-217-75-24.lnse1.cht.bigpond.net.au
+0 868 472 2870735 4 1414962958
+/
+crawl-66-249-69-193.googlebot.com
+0 3 2 1541 2 1414808713
+/
+14.17.34.182
+0 1 1 4365 0 0
+-
+110-175-28-117.static.tpgi.com.au
+0 5 3 3928 1 1414890508
+/
+120.19.47.60
+0 3 2 23893 0 0
+-
+c122-106-159-61.carlnfd1.nsw.optusnet.com.au
+0 2073 1402 5790654 10 1414958166
+/
+hn.kd.ny.adsl
+0 1 0 0 0 0
+-
+220.181.132.216
+0 1 1 1143 1 1414948362
+/
+220.181.132.197
+0 3 3 3928 1 1414948452
+/
+113.142.11.149
+0 1 1 19528 0 0
+-
+72-46-152.unassigned.userdns.com
+0 2 2 2286 1 1414810931
+/
+msnbot-207-46-13-105.search.msn.com
+0 2 1 1143 1 1414881206
+/
+crawl-66-249-69-177.googlebot.com
+0 1 1 2387 0 0
+-
+123-243-82-58.static.tpgi.com.au
+0 498 338 1564878 4 1414961726
+/
+c114-76-232-57.farfl3.nsw.optusnet.com.au
+0 424 344 792362 8 1414969380
+/
+180.153.188.131
+0 1 0 0 0 0
+-
+188.92.76.167
+0 1 1 1143 1 1414926656
+/
+# End Of Table - sites (monthly)
+# -sites- (daily)
+124-169-130-219.dyn.iinet.net.au
+0 4 3 3928 1 1414914042
+/
+113.108.13.36
+0 1 1 4365 0 0
+-
+123-243-94-196.static.tpgi.com.au
+0 880 672 2402684 7 1414969252
+/
+cpe-121-217-75-24.lnse1.cht.bigpond.net.au
+0 868 472 2870735 4 1414962958
+/
+14.17.34.182
+0 1 1 4365 0 0
+-
+110-175-28-117.static.tpgi.com.au
+0 5 3 3928 1 1414890508
+/
+120.19.47.60
+0 3 2 23893 0 0
+-
+c122-106-159-61.carlnfd1.nsw.optusnet.com.au
+0 1869 1267 5257307 10 1414958166
+/
+220.181.132.216
+0 1 1 1143 1 1414948362
+/
+220.181.132.197
+0 3 3 3928 1 1414948452
+/
+113.142.11.149
+0 1 1 19528 0 0
+-
+123-243-82-58.static.tpgi.com.au
+0 420 279 1403159 2 1414961726
+/
+c114-76-232-57.farfl3.nsw.optusnet.com.au
+0 424 344 792362 8 1414969380
+/
+188.92.76.167
+0 1 1 1143 1 1414926656
+/
+# End Of Table - sites (daily)
+# -referrers- 
+http://utsems.net/userAuthenticated.php
+0 123
+http://utsems.net/addUserTypeProcess.php
+0 15
+http://utsems.net/dashboardEM.php
+0 55
+http://utsems.net/updateEventV.php
+0 87
+http://utsems.net/viewUsers.php
+0 109
+http://utsems.net/viewRoles.php
+0 1
+http://www.utsems.net/
+0 2
+http://utsems.net/updateUserV.php
+0 30
+http://www.utsems.net/manageEvent.php
+0 91
+http://utsems.net/dashboardU.php
+0 16
+http://utsems.net/index.php
+0 105
+http://www.utsems.net/manageActivity.php
+0 189
+http://utsems.net/updateActivityV.php
+0 100
+http://utsems.net/registerNLI.php
+0 3
+http://utsems.net/updateUserProcess.php
+0 9
+http://www.utsems.net/updateUserV.php
+0 100
+http://utsems.net/updateUserEM.php
+0 20
+http://www.utsems.net/newActivityProcess.php
+0 33
+http://utsems.net/newActivityProcess.php
+0 11
+http://www.utsems.net/addUserEM.php
+0 23
+http://utsems.net/addUserEM.php
+0 6
+http://www.utsems.net/register.php
+0 29
+http://www.utsems.net/addUserTypeProcess.php
+0 45
+http://www.utsems.net/addUserV.php
+0 24
+http://www.utsems.net/registerNLI.php
+0 15
+http://www.utsems.net/loginProcess.php
+0 13
+http://www.utsems.net/logout.php
+0 7
+http://utsems.net/manageRole.php
+0 4
+http://www.utsems.net/viewVolunteerEventDetails.php
+0 41
+http://www.utsems.net/deleteUserProcess.php
+0 15
+http://utsems.net/logout.php
+0 68
+http://www.utsems.net/updateUserProcess.php
+0 34
+http://utsems.net/newUserProcess.php
+0 12
+http://utsems.net/dashboard.php
+0 1
+http://www.utsems.net/addActivities.php
+0 58
+http://utsems.net/addUserA.php
+0 8
+http://utsems.net/manageRegisteredRole.php
+0 127
+- (Direct Request)
+0 157
+http://utsems.net/viewActivities.php
+0 2
+http://www.utsems.net/updateUserEM.php
+0 57
+http://utsems.net/deleteActivityProcess.php
+0 2
+http://www.utsems.net/updateEventP.php
+0 11
+http://www.utsems.net/manageRegisteredRole.php
+0 55
+http://www.utsems.net/preRegisterUpdate.php
+0 33
+http://www.utsems.net/viewEventsEM.php
+0 75
+http://utsems.net/addUserV.php
+0 4
+http://www.utsems.net/viewUsers.php
+0 243
+http://www.utsems.net/registerUpdate.php
+0 12
+http://utsems.net/newEventProcess.php
+0 1
+http://www.utsems.net/newUserProcess.php
+0 22
+http://utsems.net/viewVolunteers.php
+0 6
+http://www.utsems.net/manageAllocatedRole.php
+0 38
+http://utsems.net/updateActivityP.php
+0 198
+http://utsems.net/manageActivity.php
+0 195
+http://www.utsems.net/deleteActivityProcess.php
+0 3
+http://www.utsems.net/dashboardEM.php
+0 17
+http://utsems.net/addEvents.php
+0 64
+http://utsems.net/viewVolunteerEventDetails.php
+0 59
+http://www.utsems.net/viewPositions.php
+0 119
+http://www.utsems.net/updateActivityP.php
+0 22
+http://utsems.net/viewEventsEM.php
+0 224
+http://utsems.net/register.php
+0 21
+http://utsems.net/
+0 47
+http://google.com/
+0 1
+http://www.utsems.net/userAuthenticated.php
+0 16
+http://www.utsems.net/addUserA.php
+0 10
+http://www.utsems.net/index.php
+0 17
+http://www.utsems.net/alreadyReg.php
+0 3
+http://utsems.net/preRegisterUpdate.php
+0 52
+http://utsems.net/loginProcess.php
+0 99
+http://utsems.net/viewVolunteerActivityDetails.php
+0 100
+http://utsems.net/addActivities.php
+0 37
+http://utsems.net/deleteUserProcess.php
+0 4
+http://www.utsems.net/updateEventV.php
+0 79
+http://www.utsems.net/viewVolunteerActivityDetails.php
+0 139
+http://utsems.net/viewPositions.php
+0 220
+http://utsems.net/manageEvent.php
+0 177
+http://utsems.net/updateEventP.php
+0 24
+http://utsems.net/alreadyReg.php
+0 13
+http://www.utsems.net/preRegister.php
+0 51
+http://www.utsems.net/addEvents.php
+0 27
+http://www.utsems.net/updateActivityV.php
+0 258
+http://www.utsems.net/reportUser.php
+0 35
+http://utsems.net/registerUpdate.php
+0 4
+http://utsems.net/preRegister.php
+0 54
+http://utsems.net/addRoles.php
+0 1
+http://utsems.net/manageAllocatedRole.php
+0 36
+# End Of Table - referrers
+# -agents- 
+Mozilla/5.0 (Windows NT 6.1; WOW64; rv:32.0) Gecko/20100101 Firefox/32.0
+0 450
+Mozilla/5.0 (compatible; MSIE 10.0; Windows NT 6.2; WOW64; Trident/6.0; Touch; MAARJS)
+0 1365
+Mozilla/5.0 (Windows NT 6.1; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/36.0.1985.143 Safari/537.36
+0 6
+Mozilla/4.0
+0 1
+Mozilla/5.0 (Windows NT 6.1; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/30.0.1599.101 Safari/537.36
+0 195
+Mozilla/5.0 (compatible; Googlebot/2.1; +http://www.google.com/bot.html)
+0 5
+Mozilla/5.0 (compatible; bingbot/2.0; +http://www.bing.com/bingbot.htm)
+0 2
+Mozilla/5.0 (Windows NT 6.1; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/35.0.1916.114 Safari/537.36
+0 179
+Mozilla/5.0 (Windows NT 6.2; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/38.0.2125.111 Safari/537.36
+0 1121
+Mozilla/5.0 (Windows NT 6.1; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/38.0.2125.111 Safari/537.36
+0 420
+Mozilla/5.0 (Windows NT 6.1; WOW64; Trident/7.0; rv:11.0) like Gecko
+0 486
+Mozilla/5.0 (Windows NT 6.3; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/36.0.1985.143 Safari/537.36 OPR/23.0.1522.7
+0 1
+Mozilla/5.0 (X11; Windows x86_64) AppleWebKit/536.11 (KHTML, like Gecko) chrome/22.0.1190.0 Safari/536.11
+0 3
+Mozilla/5.0 (compatible; MSIE 10.0; Windows NT 6.2; WOW64; Trident/6.0; ASU2JS)
+0 85
+Mozilla/5.0 (iPhone; U; CPU iPhone OS 4_0 like Mac OS X; en-us) AppleWebKit/532.9 (KHTML, like Gecko) Version/4.0.5 Mobile/8A
+0 2
+Mozilla/5.0 (Windows NT 6.1; WOW64; rv:27.0) Gecko/20100101 Firefox/27.0
+0 16
+Mozilla/5.0 (Windows NT 6.1; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/37.0.2062.102 Safari/537.36
+0 1
+Mozilla/5.0 (Windows NT 6.1) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/38.0.2125.111 Safari/537.36
+0 5
+Mozilla/4.0 (compatible; MSIE 8.0; Windows NT 6.1; Trident/4.0; SLCC2; .NET CLR 2.0.50727; .NET CLR 3.5.30729; .NET CLR 3.0.3
+0 1
+Mozilla/5.0 (iPhone; CPU iPhone OS 8_1 like Mac OS X) AppleWebKit/600.1.4 (KHTML, like Gecko) Mobile/12B411 QQ/5.1.1.97
+0 3
+Mozilla/5.0 (compatible; MSIE 9.0; Windows NT 6.1; Trident/5.0)
+0 2
+Mozilla/5.0 (Macintosh; Intel Mac OS X 10_10) AppleWebKit/600.1.25 (KHTML, like Gecko) Version/8.0 Safari/600.1.25
+0 424
+# End Of Table - agents
+# -search strings- 
+# End Of Table - search strings
+# -usernames- 
+# End Of Table - usernames

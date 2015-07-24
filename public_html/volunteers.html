@@ -1,0 +1,41 @@
+<!-- File: volunteers.html
+ * ------------------------
+ * This html file establishes the connection to the sql database
+ -->
+
+<html>
+<?php
+// Create connection
+ $con=mysqli_connect("example.com","peter","abc123","my_db");
+
+// Check connection
+ if (mysqli_connect_errno()) {
+   echo "Failed to connect to MySQL: " . mysqli_connect_error();
+ }
+ ?> 
+<head>
+
+<link rel="stylesheet" type="text/css" href="buttons.css">
+</head>
+<body>
+
+
+<div id="header">
+</div>
+<div id="menu">
+<ul class="navButton">
+
+<li><a href="createVolunteer.html">Dashboard</a></li>
+<li><a href="viewEvents.php">Events</a></li>
+<li id="current"><a href = "viewVolunteers.php">Volunteers</a></li>
+<li><a href = "viewActivities.php">Activities</a></li>
+<li><a href = "viewRoles.php">Roles</a></li>
+
+</ul>
+</div>
+<div id ="content">
+
+</div>
+
+</body>
+</html>

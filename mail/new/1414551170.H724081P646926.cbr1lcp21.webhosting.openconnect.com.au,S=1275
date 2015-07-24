@@ -1,0 +1,27 @@
+Return-path: <>
+Envelope-to: s1053775@cbr1lcp21.webhosting.openconnect.com.au
+Delivery-date: Wed, 29 Oct 2014 13:52:50 +1100
+Received: from mailnull by cbr1lcp21.webhosting.openconnect.com.au with local (Exim 4.82)
+	id 1XjJNS-002iID-LA
+	for s1053775@cbr1lcp21.webhosting.openconnect.com.au; Wed, 29 Oct 2014 13:52:50 +1100
+Auto-Submitted: auto-replied
+From: Mail Delivery System <Mailer-Daemon@cbr1lcp21.webhosting.openconnect.com.au>
+To: s1053775@cbr1lcp21.webhosting.openconnect.com.au
+Subject: Mail failure - no recipient addresses
+Message-Id: <E1XjJNS-002iID-LA@cbr1lcp21.webhosting.openconnect.com.au>
+Date: Wed, 29 Oct 2014 13:52:50 +1100
+
+A message that you sent contained no recipient addresses, and therefore no
+delivery could be attempted.
+
+------ This is a copy of your message, including all the headers. ------
+
+To: 
+Subject: Registration for andy activity test
+X-PHP-Script: utsems.net/register.php for 123.243.94.196
+Message-Id: <E1XjJNS-002iIB-JF@cbr1lcp21.webhosting.openconnect.com.au>
+From: s1053775@cbr1lcp21.webhosting.openconnect.com.au
+Date: Wed, 29 Oct 2014 13:52:50 +1100
+
+Hi , 
+This is to confirm that we have received your activity registration! We will review your application and inform you if you are allocated for the role as soon as possible.

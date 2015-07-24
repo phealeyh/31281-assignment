@@ -1,0 +1,30 @@
+Return-path: <>
+Envelope-to: s1053775@cbr1lcp21.webhosting.openconnect.com.au
+Delivery-date: Sun, 02 Nov 2014 15:42:27 +1100
+Received: from mailnull by cbr1lcp21.webhosting.openconnect.com.au with local (Exim 4.82)
+	id 1Xkmzj-001FKg-6L
+	for s1053775@cbr1lcp21.webhosting.openconnect.com.au; Sun, 02 Nov 2014 15:42:27 +1100
+Auto-Submitted: auto-replied
+From: Mail Delivery System <Mailer-Daemon@cbr1lcp21.webhosting.openconnect.com.au>
+To: s1053775@cbr1lcp21.webhosting.openconnect.com.au
+Subject: Mail failure - no recipient addresses
+Message-Id: <E1Xkmzj-001FKg-6L@cbr1lcp21.webhosting.openconnect.com.au>
+Date: Sun, 02 Nov 2014 15:42:27 +1100
+
+A message that you sent contained no recipient addresses, and therefore no
+delivery could be attempted.
+
+------ This is a copy of your message, including all the headers. ------
+
+To: 
+Subject: UTS EMS Password Reset
+X-PHP-Script: www.utsems.net/resetPW.php for 122.106.159.61
+Message-Id: <E1Xkmzj-001FKe-3s@cbr1lcp21.webhosting.openconnect.com.au>
+From: s1053775@cbr1lcp21.webhosting.openconnect.com.au
+Date: Sun, 02 Nov 2014 15:42:27 +1100
+
+Hi nat,
+
+Your password has been reset to: 4971b9850470a1c7115ea35360423cf9
+
+Please update date this to a password of your choice through your preferences.

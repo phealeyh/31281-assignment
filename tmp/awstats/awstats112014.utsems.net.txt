@@ -1,0 +1,331 @@
+AWSTATS DATA FILE 7.0 (build 1.971)
+# If you remove this file, all statistics for date 201411 will be lost/reset.
+# Last config file used to build this data file was /home/s1053775/tmp/awstats/awstats.utsems.net.conf.
+
+# Position (offset in bytes) in this file for beginning of each section for
+# direct I/O access. If you made changes somewhere in this file, you should
+# also remove completely the MAP section (AWStats will rewrite it at next
+# update).
+BEGIN_MAP 27
+POS_GENERAL 2004                
+POS_TIME 2691                
+POS_VISITOR 6626                
+POS_DAY 7393                
+POS_DOMAIN 3427                
+POS_LOGIN 3685                
+POS_ROBOT 3840                
+POS_WORMS 4051                
+POS_EMAILSENDER 4182                
+POS_EMAILRECEIVER 4325                
+POS_SESSION 7506                
+POS_SIDER 7711                
+POS_FILETYPES 4460                
+POS_DOWNLOADS 4584                
+POS_OS 4632                
+POS_BROWSER 4723                
+POS_SCREENSIZE 5025                
+POS_UNKNOWNREFERER 5099                
+POS_UNKNOWNREFERERBROWSER 5213                
+POS_ORIGIN 5295                
+POS_SEREFERRALS 5435                
+POS_PAGEREFS 5579                
+POS_SEARCHWORDS 5727                
+POS_KEYWORDS 5879                
+POS_MISC 2355                
+POS_ERRORS 5938                
+POS_CLUSTER 3541                
+POS_SIDER_404 6049                
+END_MAP
+
+# LastLine    = Date of last record processed - Last record line number in last log - Last record offset in last log - Last record signature value
+# FirstTime   = Date of first visit for history file
+# LastTime    = Date of last visit for history file
+# LastUpdate  = Date of last update - Nb of parsed records - Nb of parsed old records - Nb of parsed new records - Nb of parsed corrupted - Nb of parsed dropped
+# TotalVisits = Number of visits
+# TotalUnique = Number of unique visitors
+# MonthHostsKnown   = Number of hosts known
+# MonthHostsUnKnown = Number of hosts unknown
+BEGIN_GENERAL 8
+LastLine 20141102230355 4511 1058072 15457910183358
+FirstTime 20141101001946
+LastTime 20141102230355
+LastUpdate 20141102230516 4511 0 4511 0 0
+TotalVisits 28                  
+TotalUnique 13                  
+MonthHostsKnown 0                   
+MonthHostsUnknown 14                  
+END_GENERAL
+
+# Misc ID - Pages - Hits - Bandwidth
+BEGIN_MISC 10
+QuickTimeSupport 0 0 0
+JavaEnabled 0 0 0
+JavascriptDisabled 0 0 0
+PDFSupport 0 0 0
+WindowsMediaPlayerSupport 0 0 0
+AddToFavourites 0 0 0
+RealPlayerSupport 0 0 0
+TotalMisc 0 0 0
+DirectorSupport 0 0 0
+FlashSupport 0 0 0
+END_MISC
+
+# Hour - Pages - Hits - Bandwidth - Not viewed Pages - Not viewed Hits - Not viewed Bandwidth
+BEGIN_TIME 24
+0 176 195 598732 28 58 11483
+1 130 145 552989 35 76 2733
+2 194 216 667707 36 79 36925
+3 40 46 91974 21 24 55735
+4 0 0 0 0 0 0
+5 0 0 0 0 0 0
+6 0 0 0 0 0 0
+7 1 3 3928 0 1 0
+8 1 3 1143 1 1 0
+9 129 133 499243 36 37 10636
+10 30 32 126717 8 8 1590
+11 50 51 120052 12 12 24247
+12 96 101 154520 3 14 0
+13 2 4 11198 2 3 0
+14 98 115 338397 17 25 9540
+15 174 205 655293 27 34 5050
+16 232 244 882158 42 79 9145
+17 182 190 717788 37 50 13129
+18 328 386 1383693 46 91 12214
+19 112 138 496433 20 38 8248
+20 432 761 3330745 43 178 41662
+21 455 562 1818691 48 94 37472
+22 161 217 526997 18 28 13957
+23 69 80 204205 8 16 18522
+END_TIME
+
+# Domain - Pages - Hits - Bandwidth
+# The 25 first Pages must be first (order not required for others)
+BEGIN_DOMAIN 3
+au 3086 3818 13146988
+cn 4 7 33329
+us 2 2 2286
+END_DOMAIN
+
+# Cluster ID - Pages - Hits - Bandwidth
+BEGIN_CLUSTER 0
+END_CLUSTER
+
+# Login - Pages - Hits - Bandwidth - Last visit
+# The 10 first Pages must be first (order not required for others)
+BEGIN_LOGIN 0
+END_LOGIN
+
+# Robot ID - Hits - Bandwidth - Last visit - Hits on robots.txt
+# The 25 first Hits must be first (order not required for others)
+BEGIN_ROBOT 2
+googlebot 4 5071 20141102111056 0
+bot[\s_+:,\.\;\/\\-] 1 1143 20141101223326 0
+END_ROBOT
+
+# Worm ID - Hits - Bandwidth - Last visit
+# The 5 first Hits must be first (order not required for others)
+BEGIN_WORMS 0
+END_WORMS
+
+# EMail - Hits - Bandwidth - Last visit
+# The 20 first Hits must be first (order not required for others)
+BEGIN_EMAILSENDER 0
+END_EMAILSENDER
+
+# EMail - Hits - Bandwidth - Last visit
+# The 20 first hits must be first (order not required for others)
+BEGIN_EMAILRECEIVER 0
+END_EMAILRECEIVER
+
+# Files type - Hits - Bandwidth - Bandwidth without compression - Bandwidth after compression
+BEGIN_FILETYPES 3
+php 3061 10768641 0 0
+css 735 2378529 0 0
+html 31 35433 0 0
+END_FILETYPES
+
+# Downloads - Hits - Bandwidth
+BEGIN_DOWNLOADS 0
+END_DOWNLOADS
+
+# OS ID - Hits
+BEGIN_OS 5
+macosx 374
+unix 3
+Unknown 1
+winvista 2005
+win7 1444
+END_OS
+
+# Browser ID - Hits
+BEGIN_BROWSER 15
+iphone 2
+chrome35.0.1916.114 158
+firefox32.0 341
+msie8.0 1
+chrome36.0.1985.143 6
+mozilla 378
+chrome22.0.1190.0 3
+msie10.0 1095
+chrome37.0.2062.102 1
+netscape4.0 1
+safari8.0 372
+chrome38.0.2125.111 1311
+msie9.0 2
+firefox27.0 12
+chrome30.0.1599.101 144
+END_BROWSER
+
+# Screen size - Hits
+BEGIN_SCREENSIZE 0
+END_SCREENSIZE
+
+# Unknown referer OS - Last visit date
+BEGIN_UNKNOWNREFERER 1
+Mozilla/4.0 20141102212050
+END_UNKNOWNREFERER
+
+# Unknown referer Browser - Last visit date
+BEGIN_UNKNOWNREFERERBROWSER 0
+END_UNKNOWNREFERERBROWSER
+
+# Origin - Pages - Hits 
+BEGIN_ORIGIN 6
+From0 113 113
+From1 0 0
+From2 0 0
+From3 0 0
+From4 2979 3714
+From5 0 0
+END_ORIGIN
+
+# Search engine referers ID - Pages - Hits
+BEGIN_SEREFERRALS 0
+END_SEREFERRALS
+
+# External page referers - Pages - Hits
+# The 25 first Pages must be first (order not required for others)
+BEGIN_PAGEREFS 0
+END_PAGEREFS
+
+# Search keyphrases - Number of search
+# The 10 first number of search must be first (order not required for others)
+BEGIN_SEARCHWORDS 0
+END_SEARCHWORDS
+
+# Search keywords - Number of search
+# The 25 first number of search must be first (order not required for others)
+BEGIN_KEYWORDS 0
+END_KEYWORDS
+
+# Errors - Hits - Bandwidth
+BEGIN_ERRORS 3
+302 470 297894
+206 2 8180
+404 439 0
+END_ERRORS
+
+# URL with 404 errors - Hits - Last URL referer
+BEGIN_SIDER_404 7
+/manageactivity.php 1 -
+/manageevent.php 1 -
+/robots.txt 2 -
+/reportUser.php 1 http://www.utsems.net/updateUserV.php
+/manageActivities.php 1 -
+/inquire.php 11 http://utsems.net/viewPositions.php
+/resources/demos/style.css 422 http://www.utsems.net/updateActivityP.php
+END_SIDER_404
+
+# Host - Pages - Hits - Bandwidth - Last visit date - [Start date of last visit] - [Last page of last visit]
+# [Start date of last visit] and [Last page of last visit] are saved only if session is not finished
+# The 25 first Hits must be first (order not required for others)
+BEGIN_VISITOR 14
+122.106.159.61 1387 1598 5643611 20141102230222 20141102141644 /viewEventsEM.php
+123.243.94.196 660 695 2348732 20141102230234 20141102210700 /viewUsers.php
+121.217.75.24 387 739 2838659 20141102211717
+114.76.232.57 335 372 757017 20141102230355 20141102223128 /viewEventsEM.php
+123.243.82.58 314 406 1527220 20141102230157 20141102195952 /manageActivity.php
+72.46.152.69 2 2 2286 20141101030211
+220.181.132.216 1 1 1143 20141102171242
+220.181.132.197 1 3 3928 20141102171412
+110.175.28.117 1 3 3928 20141102010828
+113.108.13.36 1 1 4365 20141102212052
+120.19.47.60 1 2 23893 20141102212108
+124.169.130.219 1 3 3928 20141102074042
+14.17.34.182 1 1 4365 20141102212050
+113.142.11.149 0 1 19528 
+END_VISITOR
+
+# Date - Pages - Hits - Bandwidth - Visits
+BEGIN_DAY 2
+20141101 196 217 671170 6
+20141102 2896 3610 12511433 22
+END_DAY
+
+# Session range - Number of visits
+BEGIN_SESSION 7
+1h+ 7
+5mn-15mn 2
+2mn-5mn 1
+30s-2mn 1
+0s-30s 8
+15mn-30mn 3
+30mn-1h 2
+END_SESSION
+
+# URL - Pages - Bandwidth - Entry - Exit
+# The 25 first Pages must be first (order not required for others)
+BEGIN_SIDER 52
+/manageActivity.php 304 1267856 0 2
+/viewEventsEM.php 250 909477 1 2
+/viewPositions.php 249 1052171 4 8
+/manageEvent.php 214 617550 0 0
+/viewUsers.php 211 1067564 0 1
+/viewVolunteerActivityDetails.php 132 288831 0 0
+/updateActivityV.php 121 943519 1 0
+/loginProcess.php 119 11588 0 0
+/index.php 118 134874 9 3
+/userAuthenticated.php 112 16504 0 0
+/manageRegisteredRole.php 106 263024 0 1
+/updateUserV.php 92 734648 0 0
+/viewVolunteerEventDetails.php 83 202232 0 0
+/logout.php 75 10050 0 0
+/updateActivityP.php 66 520159 0 0
+/updateUserEM.php 64 486067 1 0
+/updateEventV.php 59 383175 0 0
+/dashboardEM.php 58 106405 0 0
+/preRegisterUpdate.php 48 135009 0 0
+/addActivities.php 45 327870 0 1
+/preRegister.php 44 120206 0 0
+/updateUserProcess.php 43 28698 0 0
+/manageAllocatedRole.php 43 109026 1 0
+/newUserProcess.php 43 27740 0 0
+/addUserTypeProcess.php 42 4313 0 0
+/helpDirect.php 14 0 0 0
+/ 31 35433 11 5
+/viewRoles.php 1 4353 0 0
+/manageRole.php 5 19610 0 0
+/resetPW.php 9 4061 0 0
+/newActivityProcess.php 36 32431 0 0
+/viewVolunteers.php 3 13482 0 0
+/deleteUserProcess.php 19 14454 0 0
+/deleteRegisteredRoleProcessV.php 2 2026 0 0
+/newEventProcess.php 1 209 0 0
+/dashboardU.php 12 19618 0 0
+/registerUpdate.php 14 13424 0 0
+/addEvents.php 38 215215 0 0
+/register.php 34 32783 0 0
+/dashboard.php 1 724 0 0
+/addUserV.php 29 207007 0 0
+/addUserA.php 9 62108 0 0
+/addUserEM.php 31 209354 0 0
+/updateEventP.php 11 69026 0 0
+/deleteEventProcess.php 3 627 0 0
+/addRoles.php 2 4886 0 0
+/viewActivities.php 3 14583 0 0
+/reportUser.php 21 33941 0 0
+/updateActivityProcessV.php 1 194 0 1
+/deleteActivityProcess.php 4 3415 0 0
+/registerNLI.php 8 10999 0 0
+/alreadyReg.php 9 11555 0 0
+END_SIDER

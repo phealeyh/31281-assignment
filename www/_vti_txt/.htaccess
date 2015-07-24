@@ -1,0 +1,11 @@
+# -FrontPage-
+
+Options None
+
+<Limit GET POST PUT DELETE>
+order deny,allow
+deny from all
+</Limit>
+AuthName group14.x10host.com
+AuthUserFile /home/group14x/public_html/_vti_pvt/service.pwd
+AuthGroupFile /home/group14x/public_html/_vti_pvt/service.grp

@@ -1,0 +1,68 @@
+Return-path: <>
+Envelope-to: s1053775@cbr1lcp21.webhosting.openconnect.com.au
+Delivery-date: Sun, 02 Nov 2014 20:16:33 +1100
+Received: from ipin1-c1esa.cbr1.mail-filtering.com.au ([117.55.239.161]:63349 helo=i-exc1esa.cbr1.mail-filtering.com.au)
+	by cbr1lcp21.webhosting.openconnect.com.au with esmtp (Exim 4.82)
+	id 1XkrGz-001xCv-7Q
+	for s1053775@cbr1lcp21.webhosting.openconnect.com.au; Sun, 02 Nov 2014 20:16:33 +1100
+Received: from localhost by i-exc1esa.cbr1.mail-filtering.com.au;
+  02 Nov 2014 20:16:35 +1100
+Message-Id: <4d8f91$2ah77j@c1.ironport.cbr1.uberu.local>
+Date: 02 Nov 2014 20:16:35 +1100
+To: s1053775@cbr1lcp21.webhosting.openconnect.com.au
+From: "Mail Delivery System" <MAILER-DAEMON@o-voc1esa.cbr1.mail-filtering.com.au>
+Subject: Delivery Status Notification (Failure)
+MIME-Version: 1.0
+Content-Type: multipart/report; report-type=delivery-status; boundary="4g9pX.51joloETu.r1ejK82Q3v.EZLC5Ly"
+
+--4g9pX.51joloETu.r1ejK82Q3v.EZLC5Ly
+content-type: text/plain;
+    charset="us-ascii"
+Content-Transfer-Encoding: quoted-printable
+
+The following message to <pp@mail.com> was undeliverable.
+The reason for the problem:
+5.1.0 - Unknown address error 550-'Requested action not taken: mailbox unav=
+ailable'
+
+--4g9pX.51joloETu.r1ejK82Q3v.EZLC5Ly
+content-type: message/delivery-status
+
+Reporting-MTA: dns; o-voc1esa.cbr1.mail-filtering.com.au
+
+Final-Recipient: rfc822;pp@mail.com
+Action: failed
+Status: 5.0.0 (permanent failure)
+Remote-MTA: dns; [74.208.5.27]
+Diagnostic-Code: smtp; 5.1.0 - Unknown address error 550-'Requested action not taken: mailbox unavailable' (delivery attempts: 0)
+
+--4g9pX.51joloETu.r1ejK82Q3v.EZLC5Ly
+content-type: message/rfc822
+
+X-IronPort-Anti-Spam-Filtered: true
+X-IronPort-Anti-Spam-Result: Ah8IAGz1VVR1N+sW/2dsb2JhbABcgw8BZ0i8dAGEb4EMihWHZoEIFgEBAQEBAQJ6hXOJIKVCkTaSRJEtGIQdBZc/h3ODTZFSgUcBCwGCOCmBd4EDAQEB
+X-IPAS-Result: Ah8IAGz1VVR1N+sW/2dsb2JhbABcgw8BZ0i8dAGEb4EMihWHZoEIFgEBAQEBAQJ6hXOJIKVCkTaSRJEtGIQdBZc/h3ODTZFSgUcBCwGCOCmBd4EDAQEB
+X-IronPort-AV: E=Sophos;i="5.07,295,1413205200"; 
+   d="scan'208";a="78159073"
+Received: from cbr1lcp21.webhosting.openconnect.com.au ([117.55.235.22])
+  by o-voc1esa.cbr1.mail-filtering.com.au with ESMTP; 02 Nov 2014 20:16:32 +1100
+Received: from s1053775 by cbr1lcp21.webhosting.openconnect.com.au with local (Exim 4.82)
+	(envelope-from <s1053775@cbr1lcp21.webhosting.openconnect.com.au>)
+	id 1XkrGv-001xCP-QE
+	for pp@mail.com; Sun, 02 Nov 2014 20:16:29 +1100
+To: pp@mail.com
+Subject: Registration for Start is after End
+X-PHP-Script: utsems.net/deleteRegisteredRoleProcessV.php for 121.217.75.24
+From: UTS EMS
+Message-Id: <E1XkrGv-001xCP-QE@cbr1lcp21.webhosting.openconnect.com.au>
+Date: Sun, 02 Nov 2014 20:16:29 +1100
+
+Hi Peter,
+
+This is to inform you that you have been successfully withdrawn!
+
+Please browse through other upcoming events and register for other available activities!
+
+--4g9pX.51joloETu.r1ejK82Q3v.EZLC5Ly--
+
+

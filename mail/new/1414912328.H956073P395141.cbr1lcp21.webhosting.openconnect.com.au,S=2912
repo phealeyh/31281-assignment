@@ -1,0 +1,65 @@
+Return-path: <>
+Envelope-to: s1053775@cbr1lcp21.webhosting.openconnect.com.au
+Delivery-date: Sun, 02 Nov 2014 18:12:08 +1100
+Received: from ipin1-c2esa.cbr1.mail-filtering.com.au ([117.55.239.162]:29567 helo=i-exc2esa.cbr1.mail-filtering.com.au)
+	by cbr1lcp21.webhosting.openconnect.com.au with esmtp (Exim 4.82)
+	id 1XkpKa-001enB-Os
+	for s1053775@cbr1lcp21.webhosting.openconnect.com.au; Sun, 02 Nov 2014 18:12:08 +1100
+Received: from localhost by i-exc2esa.cbr1.mail-filtering.com.au;
+  02 Nov 2014 18:12:11 +1100
+Message-Id: <c2f6fc$28gkpt@c2.ironport.cbr1.uberu.local>
+Date: 02 Nov 2014 18:12:11 +1100
+To: s1053775@cbr1lcp21.webhosting.openconnect.com.au
+From: "Mail Delivery System" <MAILER-DAEMON@o-voc2esa.cbr1.mail-filtering.com.au>
+Subject: Delivery Status Notification (Failure)
+MIME-Version: 1.0
+Content-Type: multipart/report; report-type=delivery-status; boundary="4Y5Ce.51jhouMu6.1YCmIpnnjYK.8Udm/dH"
+
+--4Y5Ce.51jhouMu6.1YCmIpnnjYK.8Udm/dH
+content-type: text/plain;
+    charset="us-ascii"
+Content-Transfer-Encoding: quoted-printable
+
+The following message to <pp@mail.com> was undeliverable.
+The reason for the problem:
+5.1.0 - Unknown address error 550-'Requested action not taken: mailbox unav=
+ailable'
+
+--4Y5Ce.51jhouMu6.1YCmIpnnjYK.8Udm/dH
+content-type: message/delivery-status
+
+Reporting-MTA: dns; o-voc2esa.cbr1.mail-filtering.com.au
+
+Final-Recipient: rfc822;pp@mail.com
+Action: failed
+Status: 5.0.0 (permanent failure)
+Remote-MTA: dns; [74.208.5.27]
+Diagnostic-Code: smtp; 5.1.0 - Unknown address error 550-'Requested action not taken: mailbox unavailable' (delivery attempts: 0)
+
+--4Y5Ce.51jhouMu6.1YCmIpnnjYK.8Udm/dH
+content-type: message/rfc822
+
+X-IronPort-Anti-Spam-Filtered: true
+X-IronPort-Anti-Spam-Result: Ah8IAF/YVVR1N+sW/2dsb2JhbABcgw8BZ0i9PgGEb4EMihWHZoEIFgEBAQEBAQJ6hXOJIKVZkTaSSJEtGIQdBZc/h3ORFoQJgUcBCwGCOCmBd4EDAQEB
+X-IPAS-Result: Ah8IAF/YVVR1N+sW/2dsb2JhbABcgw8BZ0i9PgGEb4EMihWHZoEIFgEBAQEBAQJ6hXOJIKVZkTaSSJEtGIQdBZc/h3ORFoQJgUcBCwGCOCmBd4EDAQEB
+X-IronPort-AV: E=Sophos;i="5.07,295,1413205200"; 
+   d="scan'208";a="76043048"
+Received: from cbr1lcp21.webhosting.openconnect.com.au ([117.55.235.22])
+  by o-voc2esa.cbr1.mail-filtering.com.au with ESMTP; 02 Nov 2014 18:12:08 +1100
+Received: from s1053775 by cbr1lcp21.webhosting.openconnect.com.au with local (Exim 4.82)
+	(envelope-from <s1053775@cbr1lcp21.webhosting.openconnect.com.au>)
+	id 1XkpKX-001ekt-Ns
+	for pp@mail.com; Sun, 02 Nov 2014 18:12:05 +1100
+To: pp@mail.com
+Subject: Registration for admin activity 2
+X-PHP-Script: utsems.net/register.php for 121.217.75.24
+From: UTS EMS
+Message-Id: <E1XkpKX-001ekt-Ns@cbr1lcp21.webhosting.openconnect.com.au>
+Date: Sun, 02 Nov 2014 18:12:05 +1100
+
+Hi Peter, 
+This is to confirm that we have received your activity registration! We will review your application and inform you if you are allocated for the role as soon as possible.
+
+--4Y5Ce.51jhouMu6.1YCmIpnnjYK.8Udm/dH--
+
+

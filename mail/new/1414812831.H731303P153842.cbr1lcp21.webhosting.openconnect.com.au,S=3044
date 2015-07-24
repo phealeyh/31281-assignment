@@ -1,0 +1,71 @@
+Return-path: <>
+Envelope-to: s1053775@cbr1lcp21.webhosting.openconnect.com.au
+Delivery-date: Sat, 01 Nov 2014 14:33:51 +1100
+Received: from ipin1-c1esa.cbr1.mail-filtering.com.au ([117.55.239.161]:6706 helo=i-exc1esa.cbr1.mail-filtering.com.au)
+	by cbr1lcp21.webhosting.openconnect.com.au with esmtp (Exim 4.82)
+	id 1XkPRn-000e19-JG
+	for s1053775@cbr1lcp21.webhosting.openconnect.com.au; Sat, 01 Nov 2014 14:33:51 +1100
+Received: from localhost by i-exc1esa.cbr1.mail-filtering.com.au;
+  01 Nov 2014 14:33:53 +1100
+Message-Id: <4d8f91$29st0s@c1.ironport.cbr1.uberu.local>
+Date: 01 Nov 2014 14:33:53 +1100
+To: s1053775@cbr1lcp21.webhosting.openconnect.com.au
+From: "Mail Delivery System" <MAILER-DAEMON@o-voc1esa.cbr1.mail-filtering.com.au>
+Subject: Delivery Status Notification (Failure)
+MIME-Version: 1.0
+Content-Type: multipart/report; report-type=delivery-status; boundary="4ddCd.51iF8M/Em.35cY1g98wRt.CM4mZ23"
+
+--4ddCd.51iF8M/Em.35cY1g98wRt.CM4mZ23
+content-type: text/plain;
+    charset="us-ascii"
+Content-Transfer-Encoding: quoted-printable
+
+The following message to <222@qq.com> was undeliverable.
+The reason for the problem:
+5.1.0 - Unknown address error 550-'Mailbox not found. http://service.mail.q=
+q.com/cgi-bin/help?subtype=3D1&&id=3D20022&&no=3D1000728'
+
+--4ddCd.51iF8M/Em.35cY1g98wRt.CM4mZ23
+content-type: message/delivery-status
+
+Reporting-MTA: dns; o-voc1esa.cbr1.mail-filtering.com.au
+
+Final-Recipient: rfc822;222@qq.com
+Action: failed
+Status: 5.0.0 (permanent failure)
+Remote-MTA: dns; [103.7.30.40]
+Diagnostic-Code: smtp; 5.1.0 - Unknown address error 550-'Mailbox not found. http://service.mail.qq.com/cgi-bin/help?subtype=1&&id=20022&&no=1000728' (delivery attempts: 0)
+
+--4ddCd.51iF8M/Em.35cY1g98wRt.CM4mZ23
+content-type: message/rfc822
+
+X-IronPort-Anti-Spam-Filtered: true
+X-IronPort-Anti-Spam-Result: AhINAIlTVFR1N+sW/2dsb2JhbABcgw9lA0iNYq83AYRsgQyKE4dmgQ0WAQEBAQEBAnqFc4kgpgqRNpMghj0FimsYhB0Flz2HcZUcgUcMgjkpgXeBAwEBAQ
+X-IPAS-Result: AhINAIlTVFR1N+sW/2dsb2JhbABcgw9lA0iNYq83AYRsgQyKE4dmgQ0WAQEBAQEBAnqFc4kgpgqRNpMghj0FimsYhB0Flz2HcZUcgUcMgjkpgXeBAwEBAQ
+X-IronPort-AV: E=Sophos;i="5.07,295,1413205200"; 
+   d="scan'208";a="77493031"
+Received: from cbr1lcp21.webhosting.openconnect.com.au ([117.55.235.22])
+  by o-voc1esa.cbr1.mail-filtering.com.au with ESMTP; 01 Nov 2014 14:33:09 +1100
+Received: from s1053775 by cbr1lcp21.webhosting.openconnect.com.au with local (Exim 4.82)
+	(envelope-from <s1053775@cbr1lcp21.webhosting.openconnect.com.au>)
+	id 1XkPR5-000dvN-Hw
+	for 222@qq.com; Sat, 01 Nov 2014 14:33:07 +1100
+To: 222@qq.com
+Subject: Registration for admin activity 2
+X-PHP-Script: www.utsems.net/updateRegisteredRoleProcess.php for 122.106.159.61
+Message-Id: <E1XkPR5-000dvN-Hw@cbr1lcp21.webhosting.openconnect.com.au>
+From: s1053775@cbr1lcp21.webhosting.openconnect.com.au
+Date: Sat, 01 Nov 2014 14:33:07 +1100
+
+Hi Andy,
+
+This is to inform you that you have been accepted for the role! 
+Reconfirmation will be sent at a later date!
+
+Details:
+
+Activity: admin activity 2
+
+--4ddCd.51iF8M/Em.35cY1g98wRt.CM4mZ23--
+
+
